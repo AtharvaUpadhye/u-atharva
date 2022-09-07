@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atharva-u-01
+- 👋 Hi, I’m @u-atharva
 - 👀 I’m interested in learning how sytems work, especially softwares.
 - 🌱 I’m currently learning react.js and flutter framworks.
 - 💞️ I’m looking to collaborate on new exciting projects that make a difference.
